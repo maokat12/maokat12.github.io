@@ -365,7 +365,7 @@ ninja.data = [{
             },},{id: "news-the-first-paper-of-my-phd-trajectory-planning-for-the-bidirectional-quadrotor-as-a-differentially-flat-hybrid-system-has-been-accepted-to-icra-2023-shoutout-to-my-co-author-jake-welde-for-all-your-help-check-out-the-paper",
           title: 'The first paper of my PhD, Trajectory Planning for the Bidirectional Quadrotor as...',
           description: "",
-          section: "News",},{id: "news-our-work-toppquad-dynamically-feasible-time-optimal-path-parametrization-for-quadrotors-has-been-accepted-to-iros-2024-check-out-the-pre-print-and-code",
+          section: "News",},{id: "news-our-work-toppquad-dynamically-feasible-time-optimal-path-parametrization-for-quadrotors-has-been-accepted-to-iros-2024-as-an-oral-presentation-check-out-the-pre-print-and-code",
           title: 'Our work TOPPQuad: Dynamically-Feasible Time-Optimal Path Parametrization for Quadrotors has been accepted to...',
           description: "",
           section: "News",},{id: "news-our-work-sequence-modeling-for-time-optimal-quadrotor-trajectory-optimization-with-sampling-based-robustness-analysis-was-presented-at-workshop-on-leveraging-implicit-methods-for-aerial-autonomy-as-an-invited-paper-at-rss-2025-check-out-the-pre-print-and-code",
