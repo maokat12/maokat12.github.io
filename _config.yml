@@ -26,7 +26,7 @@ impressum_path: # set to path to include impressum link in the footer, use the s
 back_to_top: true # set to false to disable the back to top button
 
 
-resume_path: assets/pdf/mao-katherine-resume-july2025.pdf # path to your resume pdf file, relative to the root of the site
+resume_path: assets/pdf/Mao_Resume_Oct2025.pdf # path to your resume pdf file, relative to the root of the site
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
