@@ -32,7 +32,7 @@ I'm Katherine Mao, a doctoral student in Mechanical Engineering and Applied Mech
 
 My interests lie in agile robot motion planning and aerial robotics.
 
-[Curriculum Vitae](assets/pdf/mao-katherine-resume-july2025.pdf) (July 2025)
+[Curriculum Vitae](assets/pdf/Mao_Resume_Oct2025.pdf) (Oct 2025)
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
